@@ -39,4 +39,3 @@ curl --verbose -X POST --url https://slack.com/api/chat.postMessage \
 --data "$data"
 
 
-

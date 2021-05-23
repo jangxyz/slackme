@@ -1,1 +1,4 @@
 .*.swp
+tmp
+env.local
+tokens.json
